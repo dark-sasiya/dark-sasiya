@@ -44,7 +44,7 @@
 
 ## Support
 
-For support, email darkalphaxteamofficial@gmail.com or After deploying the bot you can join the FEENIX-MD support group by using the `.joinsup` command…
+For support, email darksasiya@gmail.com or After deploying the bot you can join the FEENIX-MD support group by using the `.joinsup` command…
 
 
 ## Feedback
