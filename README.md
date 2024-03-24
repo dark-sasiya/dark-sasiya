@@ -21,7 +21,7 @@
 
 1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
 
-2. Fork the Repo - [Click here](https://github.com/dark-sasiya/FEENIX-MD-WHATSAPP-BOT/fork)
+2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
